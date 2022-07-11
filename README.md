@@ -1,6 +1,6 @@
 # final-project
-## hello guys in this project I creted a  unique fashion web store aweb pages where anhy customer can visit easily anf configure the porducts according to their needs 
-it contains differnt pages like Homepage, About , Services  and Contact for customer support
+## hello guys in this project I created a  unique fashion store web pages where anhy customer can visit easily and configure the products according to their needs 
+it contains differnt pages like Homepage, About , Services  and Contact for customer support.
 this is my final future ready talent project
 # my final project azure link https://red-wave-0359f5610.1.azurestaticapps.net/
   
