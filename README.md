@@ -1,8 +1,12 @@
 # final-project
 ## hello guys in this project I created a  unique fashion store web pages where anhy customer can visit easily and configure the products according to their needs 
 It contains differnt pages like Homepage, About , Services  and Contact for customer support.
-this is my final future ready talent project
-As I had used languages as CSS,
+this is my final future ready talent project.
+
+As I had used languages as CSS, HTML AND JAVASCRIPT In rhis web page of my Unique Fashion Store.
+
+In this I had used Static Web app AZURE Technology in my Web page
+
 # my final project azure link https://red-wave-0359f5610.1.azurestaticapps.net/
   
   
